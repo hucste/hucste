@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @hucste - Stéphane HUC. 
-- 👀 I’m interested in ... OpenBSD, Debian|Devuan, and others FLOSS softwares.
+- 👀 I’m interested in ... OpenBSD, Debian|Devuan, and others FLOSS softwares. 
+- 💞️ I create some specific IT articles on https://doc.huc.fr.eu.org/fr/ or https://doc.huc.fr.eu.org/en/.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... see: https://huc.fr.eu.org/en
